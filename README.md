@@ -86,10 +86,9 @@
 │   ├── App.config
 │   └── Program.cs
 ├── images/                     # Chứa hình ảnh báo cáo Markdown
-│   ├── 01_main_screen.png
-│   ├── 02_crud_screen.png
-│   ├── 03_transaction_screen.png
-│   ├── 04_report_screen.png
-│   └── 05_error_handling.png
+│   ├── bai6.1.png
+│   ├── bai6.2.png
+│   ├── bai6.2-2.png
+│   └── bai6.2-3.png
 ├── README.md                   # File báo cáo GitHub
 └── SolutionName.sln
